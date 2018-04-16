@@ -1,0 +1,83 @@
+.img-custom {
+    width: 100%;
+    float: left;
+    padding: 0 2px;
+}
+
+.title-nav {
+    font-size: 20px;
+    padding: 5% 0;
+}
+
+.product-item {
+    border: none;
+}
+
+.product-item img {
+    margin-top: 14px;
+}
+
+.product-info {
+    width: 47%;
+    border: 2px solid gray;
+    border-radius: 10px;
+    margin-left: 12px;
+    margin-bottom: 2%;
+}
+
+.adv-info {
+    border: 2px solid gray;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.adv-item {
+    width: 80%;
+    border: none;
+    padding-left: 23%;
+}
+
+.title {
+    font-family: 'Pacifico', cursive;
+}
+
+.paragrap, input {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+ul li a {
+    font-family: 'Oswald', sans-serif;
+}
+
+.paragrap a {
+    text-decoration: none!important;
+}
+
+.pagination>li>a {
+    color: gray;
+}
+
+.pagination>li:first-child>a {
+    background-color: black;
+}
+
+.tab-content {
+    margin-top: 3%;
+}
+
+.btn-custom {
+    margin-top: 3%;
+    margin-left: 54%;
+}
+
+.video-flower {
+    margin-top: 6%;
+}
+
+.info-contact {
+    font-weight: bold;
+}
+
+.address {
+    font-size: 18px;
+}
