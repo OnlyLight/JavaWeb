@@ -1,0 +1,31 @@
+.center {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+}
+
+.btn-custom {
+    cursor: pointer;
+}
+
+.center figure figcaption h3{
+    font-size: 58px;
+}
+
+.center h2 a {
+	color: #8b9ba3;
+	text-decoration: none;
+}
+
+.center h2 a:hover {
+	color: #616161;
+}
+		
+.list-custom {
+	text-decoration: none;
+	color: #F44336;
+}
+
+.list-custom:hover {
+	text-decoration: none;
+	color: #B71C1C;
+}
